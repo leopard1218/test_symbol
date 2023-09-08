@@ -1,2 +1,5 @@
-1. Please install npm package: npm install
-2. Run the server.js : node server.js
+1. The method to use HTML parse library
+    1) Please install npm package: npm install
+    2) Run the server.js : node server.js
+2. Custom way without using any library
+    Run the customServer.js : node customServer.js
